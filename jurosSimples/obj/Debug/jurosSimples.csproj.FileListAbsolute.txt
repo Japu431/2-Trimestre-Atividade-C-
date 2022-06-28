@@ -1,0 +1,10 @@
+c:\users\sennit\source\repos\alura\jurosSimples\jurosSimples\bin\Debug\jurosSimples.exe.config
+c:\users\sennit\source\repos\alura\jurosSimples\jurosSimples\bin\Debug\jurosSimples.exe
+c:\users\sennit\source\repos\alura\jurosSimples\jurosSimples\bin\Debug\jurosSimples.pdb
+c:\users\sennit\source\repos\alura\jurosSimples\jurosSimples\obj\Debug\jurosSimples.csprojAssemblyReference.cache
+c:\users\sennit\source\repos\alura\jurosSimples\jurosSimples\obj\Debug\jurosSimples.Form1.resources
+c:\users\sennit\source\repos\alura\jurosSimples\jurosSimples\obj\Debug\jurosSimples.Properties.Resources.resources
+c:\users\sennit\source\repos\alura\jurosSimples\jurosSimples\obj\Debug\jurosSimples.csproj.GenerateResource.cache
+c:\users\sennit\source\repos\alura\jurosSimples\jurosSimples\obj\Debug\jurosSimples.csproj.CoreCompileInputs.cache
+c:\users\sennit\source\repos\alura\jurosSimples\jurosSimples\obj\Debug\jurosSimples.exe
+c:\users\sennit\source\repos\alura\jurosSimples\jurosSimples\obj\Debug\jurosSimples.pdb
